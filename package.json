@@ -1,0 +1,23 @@
+{
+  "name": "forkify-app-2.0",
+  "version": "1.0.0",
+  "description": "Forkify WebApp",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adonicristiangerman/forkify-web-2.0.git"
+  },
+  "author": "Adoni Cristian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adonicristiangerman/forkify-web-2.0/issues"
+  },
+  "homepage": "https://github.com/adonicristiangerman/forkify-web-2.0#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.5.0",
+    "parcel": "^2.5.0"
+  }
+}
