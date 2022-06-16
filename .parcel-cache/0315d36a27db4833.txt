@@ -1,4 +1,4 @@
-7454
+7456
 91C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\string\virtual\bold.js132968832584022607 0
 95C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\caniuse-lite\data\features\link-icon-svg.js132968756992983965 0
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\source-map-js\lib\binary-search.js132968757874967711 0
@@ -10,7 +10,7 @@
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\array-buffer\is-view.js132968832597562069 0
 96C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts132968756973488139 0
 75C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\whatwg-url\lib\infra.js132968756951415389 0
-43C:\Users\adoni\Desktop\Forkify-App-2.0\dist132995492119470637 1
+43C:\Users\adoni\Desktop\Forkify-App-2.0\dist132997336201056306 1
 82C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\number\epsilon.js132968832586376336 0
 81C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\regenerator-runtime\README.md132968756953619519 0
 51C:\Users\adoni\Desktop\Forkify-App-2.0\package.json132974971359608179 0
@@ -33,10 +33,6 @@
 81C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\terser\node_modules\commander132968756954083408 1
 80C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\whatwg-url\lib\urlencoded.js132968756956956429 0
 78C:\Users\adoni\Desktop\Forkify-App-2.0\forkify-architecture-recipe-loading.png132886947190000000 0
-88C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\regexp\constructor.js132968832585049879 0
-61C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\commander132968756959250275 1
-79C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\math\cbrt.js132968832584122378 0
-66C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\supports-color132968756952163393 1
 121C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage\package.json132968756980100448 0
 67C:\Users\adoni\Desktop\Forkify-App-2.0\forkify-flowchart-part-1.png132886947190000000 0
 83C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\object\create.js132968832585379040 0
@@ -68,9 +64,6 @@
 49C:\Users\adoni\Desktop\Forkify-App-2.0\index.html132977372206880368 0
 78C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\math\umulh.js132968832608487810 0
 56C:\Users\adoni\Desktop\Forkify-App-2.0\package-lock.json132974971359598215 0
-84C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\svgo\plugins\_applyTransforms.js132968756952662073 0
-107C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\transformer-js\parcel-swc.linux-arm64-musl.node132968757022611109 0
-70C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\domutils\readme.md132968756966476528 0
 91C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\node-resolver-core\package.json132968756988364087 0
 63C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\ansi-styles132968756952093576 1
 89C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\css-tree\lib\syntax\pseudo\matches.js132968756984129689 0
@@ -91,7 +84,7 @@
 85C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\instance\flat-map.js132968832592455638 0
 42C:\Users\adoni\Desktop\Forkify-App-2.0\src132967975713465833 1
 83C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\instance\flat.js132968832592665076 0
-59C:\Users\adoni\Desktop\Forkify-App-2.0\src\js\views\View.js132977381910379067 0
+59C:\Users\adoni\Desktop\Forkify-App-2.0\src\js\views\View.js132995602694201049 0
 46C:\Users\adoni\Desktop\Forkify-App-2.0\src\img132967975713306251 1
 55C:\Users\adoni\Desktop\Forkify-App-2.0\src\img\logo.png132886947190000000 0
 97C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\es.object.get-prototype-of.js132968832587608268 0
@@ -121,6 +114,16 @@
 83C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\array\index.js132968832595806661 0
 94C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\chrome-trace-event\dist\trace-event.js.map132968756952123519 0
 74C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\picomatch\package.json132968757875127297 0
+72C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\README.md132968832609624772 0
+102C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\posthtml\node_modules\posthtml-parser\package.json132968756953220558 0
+102C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\internals\object-get-own-property-names.js132968832600095115 0
+78C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\data-view132968832595826605 1
+70C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\promise132968832595686984 1
+79C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\cosmiconfig\dist\index.d.ts132968756973438271 0
+111C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\.npmignore132968756952253148 0
+68C:\Users\adoni\Desktop\Forkify-App-2.0\src\js\views\bookmarksView.js132997332166238755 0
+78C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\svgo\plugins\mergePaths.js132968756974635067 0
+66C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\yaml\util.d.ts132968756977776672 0
 60C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\anymatch132968757874728353 1
 82C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\math\index.js132968832595926364 0
 90C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts132968756970705222 0
@@ -142,8 +145,8 @@
 61C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@trysound132968756941242684 1
 71C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\workers\src132968756976410314 1
 89C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\array\to-reversed.js132968832606832231 0
-80C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\svgo\plugins\_collections.js132968756954552174 0
 60C:\Users\adoni\Desktop\Forkify-App-2.0\src\sass\_upload.scss132886947190000000 0
+80C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\svgo\plugins\_collections.js132968756954552174 0
 92C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\yaml\browser\dist\resolveSeq-492ab440.js132968756974016799 0
 82C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\htmlparser2\lib\Tokenizer.d.ts132968756966875471 0
 89C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\iterator\to-async.js132968832605844873 0
@@ -151,7 +154,7 @@
 70C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\nullthrows\LICENSE132968756951415389 0
 76C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\watcher\src\unix132968756968740466 1
 90C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\symbol\replace-all.js132968832602827789 0
-66C:\Users\adoni\Desktop\Forkify-App-2.0\src\js\views\resultsView.js132977382084621741 0
+66C:\Users\adoni\Desktop\Forkify-App-2.0\src\js\views\resultsView.js132995580820739866 0
 97C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\package-manager\src\installPackage.js132968756976759387 0
 88C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\date\to-gmt-string.js132968832606124128 0
 64C:\Users\adoni\Desktop\Forkify-App-2.0\src\sass\_components.scss132886947190000000 0
@@ -175,7 +178,7 @@
 87C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\caniuse-lite\data\features\woff2.js132968756996604255 0
 85C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\escape-string-regexp\package.json132968756950826978 0
 66C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\type-fest\ts41132968756973188960 1
-51C:\Users\adoni\Desktop\Forkify-App-2.0\src\js\views132995333386598440 1
+51C:\Users\adoni\Desktop\Forkify-App-2.0\src\js\views132997339757149057 1
 110C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\terser\node_modules\source-map\lib\source-map-generator.js132968756970336204 0
 75C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\picocolors\package.json132968756952083621 0
 83C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\object\freeze.js132968832593333331 0
@@ -207,7 +210,7 @@
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\type-fest\source\set-optional.d.ts132968756972281380 0
 73C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@babel\code-frame\lib132968756951535223 1
 83C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\es.math.cbrt.js132968832586994665 0
-59C:\Users\adoni\Desktop\Forkify-App-2.0\src\js\controller.js132995492625743141 0
+59C:\Users\adoni\Desktop\Forkify-App-2.0\src\js\controller.js132997336198519683 0
 93C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\string\virtual\fontsize.js132968832592984210 0
 56C:\Users\adoni\Desktop\Forkify-App-2.0\src\js\helpers.js132976269032358403 0
 107C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@swc\helpers\lib\_class_apply_descriptor_destructure.js132968756963165009 0
@@ -236,7 +239,7 @@
 73C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\index.js132968832596185658 0
 62C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es132968832609624772 1
 92C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\yaml\browser\dist\PlainValue-b8036b75.js132968756973178965 0
-54C:\Users\adoni\Desktop\Forkify-App-2.0\src\js\model.js132995486021994356 0
+54C:\Users\adoni\Desktop\Forkify-App-2.0\src\js\model.js132995610496845573 0
 83C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\lmdb\dependencies\lz4\lib\lz4.h132968756986409308 0
 106C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json132968756962018080 0
 56C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\.bin132974971359039704 1
@@ -254,6 +257,18 @@
 76C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\unescape.js132968832608587549 0
 82C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\string\small.js132968832604229205 0
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\xxhash-wasm\umd\xxhash-wasm.js.map132968756958512255 0
+76C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\math\log1p.js132968832598778620 0
+73C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\import-fresh\index.js132968756951335606 0
+90C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\array\virtual\reduce.js132968832602369030 0
+71C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\yaml\browser\seq.js132968756975502749 0
+95C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\esnext.symbol.observable.js132968832590311434 0
+62C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\color-name132968756951574968 1
+88C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\core\src\loadParcelPlugin.js132968756985910645 0
+91C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\esnext.iterator.take.js132968832589483580 0
+64C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\browserslist132968756964172307 1
+91C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\es.number.is-integer.js132968832587179499 0
+56C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\lmdb132968757004573984 1
+66C:\Users\adoni\Desktop\Forkify-App-2.0\src\js\views\previewView.js132997340769081397 0
 78C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\css-win32-x64-msvc132968756959499633 1
 98C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\esnext.map.update-or-insert.js132968832589742910 0
 79C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\entities\lib\index.d.ts.map132968756970615455 0
@@ -272,7 +287,7 @@
 90C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\type-fest\source\conditional-pick.d.ts132968756959818774 0
 88C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\string\virtual\big.js132968832583753395 0
 82C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\internals\iterators.js132968832598030639 0
-65C:\Users\adoni\Desktop\Forkify-App-2.0\src\js\views\recipeView.js132995492114739664 0
+65C:\Users\adoni\Desktop\Forkify-App-2.0\src\js\views\recipeView.js132995597321193188 0
 98C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\esnext.typed-array.group-by.js132968832590381239 0
 100C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\esnext.typed-array.filter-out.js132968832590331311 0
 79C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\domutils\lib\traversal.d.ts132968756970206541 0
@@ -352,15 +367,6 @@
 94C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@swc\helpers\lib\_await_async_generator.js132968756959988332 0
 58C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\braces132968757874887920 1
 82C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\weak-set\index.js132968832596415038 0
-76C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\math\log1p.js132968832598778620 0
-73C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\import-fresh\index.js132968756951335606 0
-90C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\array\virtual\reduce.js132968832602369030 0
-71C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\yaml\browser\seq.js132968756975502749 0
-95C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\esnext.symbol.observable.js132968832590311434 0
-62C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\color-name132968756951574968 1
-88C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\core\src\loadParcelPlugin.js132968756985910645 0
-91C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\esnext.iterator.take.js132968832589483580 0
-64C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\browserslist132968756964172307 1
 63C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\buffer-from132968756951435434 1
 96C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\array\is-template-object.js132968832597522727 0
 97C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\esnext.async-iterator.drop.js132968832589184377 0
@@ -387,6 +393,10 @@
 57C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\chalk132968756954691840 1
 90C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\array\virtual\keys.js132968832598349763 0
 70C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\chrome-trace-event132968756954432452 1
+88C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\regexp\constructor.js132968832585049879 0
+61C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\commander132968756959250275 1
+79C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\math\cbrt.js132968832584122378 0
+66C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\supports-color132968756952163393 1
 72C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\msgpackr\unpack.d.ts132968756973228856 0
 91C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\caniuse-lite\data\features\web-share.js132968756996394817 0
 94C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\json-parse-even-better-errors\CHANGELOG.md132968756951535223 0
@@ -483,8 +493,8 @@
 87C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\symbol\to-primitive.js132968832606722638 0
 81C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\instance\with.js132968832609614796 0
 79C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\array\index.js132968832596125817 0
-60C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\escalade132968756954442430 1
 96C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\lmdb\dependencies\v8\v8-fast-api-calls-v16.h132968756987187226 0
+60C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\escalade132968756954442430 1
 79C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\node-gyp-build\package.json132974971349552451 0
 75C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\is-extglob\package.json132968757874498983 0
 102C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\esnext.set.symmetric-difference.js132968832590171737 0
@@ -601,8 +611,6 @@
 57C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\json5132968756967404039 1
 69C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\lines-and-columns132968756951943977 1
 61C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\svgo\dist132968756978833841 1
-91C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\es.number.is-integer.js132968832587179499 0
-56C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\lmdb132968757004573984 1
 75C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\weak-lru-cache\index.js132968756952462596 0
 65C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\lodash.sortby132968756952263119 1
 80C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\math\expm1.js132968832590720284 0
@@ -622,7 +630,6 @@
 55C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\nan132968756976530009 1
 91C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\async-iterator\to-array.js132968832605954593 0
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\type-fest\source\partial-deep.d.ts132968756970346169 0
-91C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\array\last-index-of.js132968832598529390 0
 82C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\type-fest\ts41\snake-case.d.ts132968756973278714 0
 82C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\regexp\to-string.js132968832607450597 0
 81C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\math\imul.js132968832594839249 0
@@ -645,7 +652,6 @@
 92C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\css-tree\lib\syntax\node\UnicodeRange.js132968756986538974 0
 75C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\terser\lib\transform.js132968756983670909 0
 89C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\instance\trim-start.js132968832608108840 0
-94C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\reflect\set-prototype-of.js132968832603640782 0
 66C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\ordered-binary132968756961429629 1
 71C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\terser\package.json132968756983830472 0
 93C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\object\prevent-extensions.js132968832601640962 0
@@ -915,15 +921,6 @@
 64C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\domutils\lib132968756969917326 1
 80C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\weak-lru-cache\tests\test.js132968756953883927 0
 67C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\yaml\types.d.ts132968756977657011 0
-72C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\README.md132968832609624772 0
-102C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\posthtml\node_modules\posthtml-parser\package.json132968756953220558 0
-102C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\internals\object-get-own-property-names.js132968832600095115 0
-78C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\data-view132968832595826605 1
-70C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\promise132968832595686984 1
-79C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\cosmiconfig\dist\index.d.ts132968756973438271 0
-111C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\.npmignore132968756952253148 0
-78C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\svgo\plugins\mergePaths.js132968756974635067 0
-66C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\yaml\util.d.ts132968756977776672 0
 94C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\htmlnano\lib\modules\collapseWhitespace.js132968756957844054 0
 83C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\caniuse-lite\data\regions\BE.js132968756976390384 0
 93C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\actual\number\virtual\to-fixed.js132968832605984508 0
@@ -999,8 +996,8 @@
 72C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\yaml\browser\pair.js132968756968072256 0
 62C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\fs132968756974804624 1
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\regexp\constructor.js132968832584940171 0
-68C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\svgo\lib\path.js132968756975692251 0
 92C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h132968756987227125 0
+68C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\svgo\lib\path.js132968756975692251 0
 81C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\types\lib\unsafe.d.ts132968756967224516 0
 83C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\nan\nan_persistent_pre_12_inl.h132968756970745101 0
 77C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\yaml\browser\parse-cst.js132968756970939762 0
@@ -1735,6 +1732,9 @@
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\svgo\plugins\removeRasterImages.js132968756977417625 0
 99C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@swc\helpers\lib\_apply_decorated_descriptor.js132968756952362856 0
 84C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\svgo\plugins\sortDefsChildren.js132968756978544605 0
+84C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\svgo\plugins\_applyTransforms.js132968756952662073 0
+107C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\transformer-js\parcel-swc.linux-arm64-musl.node132968757022611109 0
+70C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\domutils\readme.md132968756966476528 0
 75C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\escalade\dist\index.mjs132968756953993637 0
 79C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\events\package.json132968756970999611 0
 73C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\svgo\plugins\_path.js132968756957824102 0
@@ -2986,7 +2986,7 @@
 83C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\caniuse-lite\data\regions\SD.js132968756995297768 0
 92C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\es.string.replace-all.js132968832588132038 0
 76C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\escalade\sync\index.d.ts132968756956776903 0
-65C:\Users\adoni\Desktop\Forkify-App-2.0\dist\index.e37f48ea.js.map132995492119430749 0
+65C:\Users\adoni\Desktop\Forkify-App-2.0\dist\index.e37f48ea.js.map132997336201036344 0
 74C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\escalade\sync\index.js132968756952592245 0
 91C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\es.typed-array.every.js132968832588530964 0
 75C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\escalade\sync\index.mjs132968756954442430 0
@@ -3727,6 +3727,7 @@
 105C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\reflect\get-own-property-descriptor.js132968832593991522 0
 91C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\reflect\is-extensible.js132968832597113202 0
 96C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\reflect\prevent-extensions.js132968832601680863 0
+94C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\reflect\set-prototype-of.js132968832603640782 0
 81C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\reflect\set.js132968832603800354 0
 92C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@swc\helpers\src\_array_without_holes.js132968756977996085 0
 91C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\stable\reflect\to-string-tag.js132968832607340882 0
@@ -4234,7 +4235,7 @@
 80C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\es.symbol.js132968832588431243 0
 98C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\caniuse-lite\data\features\css-not-sel-list.js132968756985960587 0
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\es.symbol.match.js132968832588461146 0
-62C:\Users\adoni\Desktop\Forkify-App-2.0\dist\icons.21bad73c.svg132995491194141820 0
+62C:\Users\adoni\Desktop\Forkify-App-2.0\dist\icons.21bad73c.svg132995608187666258 0
 88C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\es.symbol.replace.js132968832588461146 0
 87C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\es.symbol.search.js132968832588471124 0
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\modules\es.symbol.split.js132968832588481101 0
@@ -5025,8 +5026,6 @@
 83C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\instance\splice.js132968832604678064 0
 88C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\instance\to-reversed.js132968832606892086 0
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\instance\to-sorted.js132968832607001782 0
-82C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\array\with.js132968832609485141 0
-82C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\array\keys.js132968832598339798 0
 87C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\instance\to-spliced.js132968832607141411 0
 85C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\instance\trim-end.js132968832607700078 0
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\full\instance\trim-left.js132968832607839540 0
@@ -5412,6 +5411,9 @@
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\array\for-each.js132968832593064006 0
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\array\is-array.js132968832596913842 0
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\array\iterator.js132968832597920934 0
+82C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\array\with.js132968832609485141 0
+82C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\array\keys.js132968832598339798 0
+91C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\array\last-index-of.js132968832598529390 0
 80C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\instance\every.js132968832590510831 0
 87C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\array\last-item.js132968832598658954 0
 80C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\features\array\of.js132968832600613725 0
@@ -5630,7 +5632,7 @@
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\object\define-setter.js132968832585628315 0
 80C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\object\entries.js132968832586176851 0
 79C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\object\freeze.js132968832593283413 0
-61C:\Users\adoni\Desktop\Forkify-App-2.0\dist\logo.726d37a8.png132995491194135246 0
+61C:\Users\adoni\Desktop\Forkify-App-2.0\dist\logo.726d37a8.png132995608187456824 0
 89C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\utils\test\objectHash.test.js132968756980878370 0
 100C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\object\get-own-property-descriptor.js132968832593941668 0
 86C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\actual\typed-array\with.js132968832609485141 0
@@ -5727,7 +5729,7 @@
 79C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\function\bind.js132968832583793227 0
 87C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\function\has-instance.js132968832594500160 0
 79C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\function\virtual132968832595587286 1
-66C:\Users\adoni\Desktop\Forkify-App-2.0\dist\index.f7626f62.css.map132995491193364516 0
+66C:\Users\adoni\Desktop\Forkify-App-2.0\dist\index.f7626f62.css.map132995608187446871 0
 87C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\caniuse-lite\data\features\sha-2.js132968756995377536 0
 87C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\function\virtual\bind.js132968832583803201 0
 77C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\es\error\index.js132968832595607504 0
@@ -5799,7 +5801,7 @@
 81C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\actual\is-iterable.js132968832597302683 0
 80C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\@parcel\transformer-json\src132968756961479514 1
 71C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\actual\math132968832608208572 1
-61C:\Users\adoni\Desktop\Forkify-App-2.0\dist\index.e37f48ea.js132995492119400833 0
+61C:\Users\adoni\Desktop\Forkify-App-2.0\dist\index.e37f48ea.js132997336201016433 0
 73C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\actual\object132968832608846840 1
 79C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\actual\parse-int.js132968832601261977 0
 74C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\core-js\actual\promise132968832595377827 1
@@ -7449,7 +7451,7 @@
 65C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\.bin\svgo.ps1132968757051063800 0
 63C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\.bin\terser132968757051063800 0
 67C:\Users\adoni\Desktop\Forkify-App-2.0\node_modules\.bin\terser.ps1132968757051063800 0
-64C:\Users\adoni\Desktop\Forkify-App-2.0\dist\favicon.8b2f57bf.png132995491194578176 0
-62C:\Users\adoni\Desktop\Forkify-App-2.0\dist\icons.dfd7a6db.svg132995491193364516 0
-62C:\Users\adoni\Desktop\Forkify-App-2.0\dist\index.f7626f62.css132995491193364516 0
-54C:\Users\adoni\Desktop\Forkify-App-2.0\dist\index.html132995491193364516 0
+64C:\Users\adoni\Desktop\Forkify-App-2.0\dist\favicon.8b2f57bf.png132995608187666258 0
+62C:\Users\adoni\Desktop\Forkify-App-2.0\dist\icons.dfd7a6db.svg132995608187446871 0
+62C:\Users\adoni\Desktop\Forkify-App-2.0\dist\index.f7626f62.css132995608187446871 0
+54C:\Users\adoni\Desktop\Forkify-App-2.0\dist\index.html132995608187446871 0
