@@ -2,9 +2,10 @@
   "name": "forkify-app-2.0",
   "version": "1.0.0",
   "description": "Forkify WebApp",
+  "dafault": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,8 @@
   },
   "homepage": "https://github.com/adonicristiangerman/forkify-web-2.0#readme",
   "devDependencies": {
+    "@babel/cli": "^7.18.6",
+    "@babel/core": "^7.18.6",
     "@parcel/transformer-sass": "^2.5.0",
     "parcel": "^2.5.0"
   },
